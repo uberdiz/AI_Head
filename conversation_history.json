@@ -1,0 +1,2126 @@
+[
+  {
+    "role": "system",
+    "content": "You are SAINT, the user's local assistant running on their machine. Behavior: direct, practical, concise. Don't sugar-coat. Capabilities: open local apps, control Spotify (with OAuth), search the web, open YouTube search results, read bookmarks, simulate keyboard/mouse, and run a small set of safe shell commands. Personality: helpful, slightly blunt, friendly; remember user's simple preferences (name, common apps). Learning: store repeated user preferences in a local profile file and use them to personalize replies. When performing an action, say a short confirmation: e.g. 'Opening File Explorer.' If an action fails, explain why and provide a fallback."
+  },
+  {
+    "role": "user",
+    "content": "hello who are you"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm SAINT \u2014 your local assistant. I run on your machine and help with apps, Spotify, files, and small automations. I'll call you friend."
+  },
+  {
+    "role": "user",
+    "content": "skip on Spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"skip on Spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "open vs code"
+  },
+  {
+    "role": "user",
+    "content": "maximum recursion depth EX"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"maximum recursion depth EX\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "pause on Spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"pause on Spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "play on Spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"play on Spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "skip spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"skip spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "rewind spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"rewind spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "attempting to play Rap God on Spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"attempting to play Rap God on Spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "beaches by Bieber on Spotify"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"beaches by Bieber on Spotify\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "play beaches by Bebe doobie"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"play beaches by Bebe doobie\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "my backpack my Pinnacle walk when I have talked about fat not going to wrap profit"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"my backpack my Pinnacle walk when I have talked about fat not going to wrap profit\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "Google"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"Google\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "turn up the beat position to make them into the motherfuking rock and roll"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"turn up the beat position to make them into the motherfuking rock and roll\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "why is Santa going to go from label everyday like a boy did you say like a boy I got a hell yeah from Drake like a boy"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"why is Santa going to go from label everyday like a boy did you say like a boy I got a hell yeah from Drake like a boy\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "I got your"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"I got your\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "remind me to get too big"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"remind me to get too big\". I can open apps, control Spotify, search the web, or run safe commands."
+  },
+  {
+    "role": "user",
+    "content": "set alarm for 9 minutes"
+  },
+  {
+    "role": "assistant",
+    "content": "I heard: \"set alarm for 9 minutes\". I can open apps, control Spotify, search the web, or run safe commands."
+  }
+]

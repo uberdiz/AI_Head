@@ -1,0 +1,62 @@
+{
+  "open": {
+    "desc": "Open an application, file, or URL (e.g., 'open spotify', 'open command prompt')."
+  },
+  "search": {
+    "desc": "Search the web for a query (opens browser)."
+  },
+  "youtube_search": {
+    "desc": "Search YouTube for a query (opens results page)."
+  },
+  "open_file_vscode": {
+    "desc": "Open a file in VSCode."
+  },
+  "open_vscode": {
+    "desc": "Open Visual Studio Code."
+  },
+  "type": {
+    "desc": "Simulate typing text."
+  },
+  "press": {
+    "desc": "Simulate pressing a key."
+  },
+  "click": {
+    "desc": "Simulate a click at coordinates."
+  },
+  "tts": {
+    "desc": "Speak text via TTS."
+  },
+  "eye": {
+    "desc": "Set eye LED color."
+  },
+  "servo_move": {
+    "desc": "Move servo to degree."
+  },
+  "run_shell": {
+    "desc": "Run allowed shell commands (very restricted)."
+  },
+  "list_bookmarks": {
+    "desc": "List browser bookmarks found locally."
+  },
+  "open_bookmark": {
+    "desc": "Open a bookmark by title."
+  },
+  "spotify_play": {
+    "desc": "Search and play a song on Spotify."
+  },
+  "spotify_pause": {
+    "desc": "Pause Spotify playback."
+  },
+  "spotify_resume": {
+    "desc": "Resume Spotify."
+  },
+  "spotify_next": {
+    "desc": "Skip to next track."
+  },
+  "spotify_previous": {
+    "desc": "Previous track."
+  },
+  "spotify_seek": {
+    "desc": "Seek playback position."
+  }
+}
